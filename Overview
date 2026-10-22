@@ -1,0 +1,33 @@
+## Goals
+-Build a web app that can scale across multiple virtual servers
+-Compare infrastructure costs between Azure and AWS
+-Learn container orchestration with Kubernetes (AKS/EKS)
+-Set up dev, staging, and production environments
+
+## Tech Stack
+- **Cloud Providers**: Azure, AWS
+- **Compute**: Virtual Machines, Azure Kubernetes Service (AKS)
+- **Languages**: Python/Node.js (pick one)
+- **Databases**: PostgreSQL/MySql
+- **Tools**: Docker, Terraform (optional)
+
+## Current Status
+-Early development phase - setting up infrastructure and testing configurations
+
+## Architecture (Planned)
+- Load balancer distributing traffic across multiple VMs
+- Separate environments (dev/staging/prod)
+- Containerized microservices using Kubernetes
+- Database replication for redundancy
+
+## Learning Objectives
+- Understand cloud cost optimization
+- Practice Infrastructure as Code
+- Deploy production-grade applications
+- Compare Azure vs AWS services
+
+## Setup Instructions
+Coming as soon as infrastructure is finalized.
+
+## Cost Tracking
+Documenting spending and performance metrics to optimize cloud resource usage.
